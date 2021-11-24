@@ -19,7 +19,6 @@ body {
     background: url('../assets/coop_logo.svg') no-repeat;
     width: 150px;
     height: 40px;
-    margin: auto 15px auto 0;
   }
   
   .navbar-brand {
@@ -30,7 +29,7 @@ body {
     color: #828382;
     font-size: 1.5em;
     font-weight: bold;
-    margin-top: 10px;
+    margin-top: 3px;
     margin-bottom: 0;
     line-height: .75;
   }
